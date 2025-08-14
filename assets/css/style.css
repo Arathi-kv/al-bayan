@@ -1856,7 +1856,7 @@ footer .scl1 > a {color: #666;}
 .cpy-rgt > p {
     margin-bottom: 0;
     font-family: Merriweather;
-    font-size: 10px;
+    font-size: 14px;
     color: #5d2b00;
     padding-top: 0px;
 }
@@ -4254,4 +4254,7 @@ span i.fa-map-marker-alt + * {
     span i.fas.fa-map-marker-alt.theme-clr + * {
         display: none;
     }
+}
+.loc-mp.brd-rd5 {
+    display: none !important;
 }

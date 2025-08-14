@@ -4242,3 +4242,16 @@ span i.fa-map-marker-alt,
 span i.fa-map-marker-alt + * {
     display: none; /* hides the icon and text */
 }
+@media (max-width: 767px) {
+    body {
+        padding-top: 0px;
+    }
+}
+@media (max-width: 767px) {
+    span i.fas.fa-map-marker-alt.theme-clr {
+        display: none;
+    }
+    span i.fas.fa-map-marker-alt.theme-clr + * {
+        display: none;
+    }
+}

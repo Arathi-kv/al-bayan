@@ -4133,7 +4133,8 @@ img.vector-bg {
     top: 0;
     bottom: 0;
     z-index: -1;
-    background-color: rgba(109, 106, 101, 0.1);
+    background-color: rgb(68 64 59 / 48%);
+
     opacity: .65;
 }
 .featured-cap {
